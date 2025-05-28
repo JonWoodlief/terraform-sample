@@ -1,7 +1,7 @@
 {
 	"products": [
 		{
-			"label": "terraform-sample-4.0.1",
+			"label": "terraform-sample foobar",
 			"name": "terraform-sample-4.0.1",
 			"product_kind": "software",
 			"tags": [
